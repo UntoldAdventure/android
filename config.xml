@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns       = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.t0zeik.untoldadv"
+        versionCode = "10"
+        version     = "1.0">
+ 
+  <name>Untold Adventure</name>
+  <description>a game that follows along with the untold adventures of t0zeik.</description>
+  <author href="https://github.com/UntoldAdventure/android" email="icewmr@gmail.com">t0zeik</author>
+
+    <feature name="http://api.phonegap.com/1.0/file"/>
+    <feature name="http://api.phonegap.com/1.0/media"/>
+    <feature name="http://api.phonegap.com/1.0/network"/>
+ 
+</widget>
